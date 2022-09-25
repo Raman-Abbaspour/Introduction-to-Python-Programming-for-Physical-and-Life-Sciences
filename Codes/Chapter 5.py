@@ -1,3 +1,9 @@
+"""
+Copyright@ 2022 by Raman Abbaspour
+All rights reserved. No part of this manual may be reproduced in any manner whatsoever without the written permission
+except in case of brief quotations embedded in critical articles or reviews.
+"""
+
 # Example 1
 a = True
 b = False

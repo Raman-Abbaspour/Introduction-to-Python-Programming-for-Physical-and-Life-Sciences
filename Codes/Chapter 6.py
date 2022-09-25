@@ -1,3 +1,9 @@
+"""
+Copyright@ 2022 by Raman Abbaspour
+All rights reserved. No part of this manual may be reproduced in any manner whatsoever without the written permission
+except in case of brief quotations embedded in critical articles or reviews.
+"""
+
 # Example 1
 myList = [1,2,3,4,5]
 print(myList)
@@ -172,24 +178,6 @@ if "City" in myDict.keys():
     print("City key exists")
 else:
     print("City key does not exists")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
